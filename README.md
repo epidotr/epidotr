@@ -1,6 +1,6 @@
-## hey, I'm around 👋
+## hey there 👋
 
-Mostly poking at small backend/CLI stuff in Python. I'm interested in data science and am familiar with matplotlib.
+Mostly working on small CLI projects and the occasional desktop app in Python. I'm interested in data science and am familiar with matplotlib.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
